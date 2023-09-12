@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.7.34024.191</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2023-09-11T16:15:11.5394941Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2023-09-12T12:17:55.2311375Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -914,7 +914,7 @@ HAVING        (ppc.Name = 'Clothing')</CommandText>
             <Top>1.92828cm</Top>
             <Left>0.57891cm</Left>
             <Height>3cm</Height>
-            <Width>17.18312cm</Width>
+            <Width>17.18314cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
